@@ -75,7 +75,7 @@ const Model = () => {
                     <div className="blue">
                         <div className="heading">
                             {/* <h1>Just a Demo</h1> */}
-                            <h1>I can handle 3d components easily</h1>
+                            {/* <h1>I can handle 3d components easily</h1> */}
                             <h1>Ignore the design :)</h1>
                             <h1>Please Scroll down</h1>
                         </div>
